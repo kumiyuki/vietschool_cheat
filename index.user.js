@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         vietschool_patches
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/kumiyuki/vietschool_cheat
 // @version      2026-02-26
 // @description  a few patches to the original code to improve privacy.
-// @author       rin
+// @author       kumiyuki
 // @match        https://tracnghiem22.vietschool.vn/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vietschool.vn
 // @grant        none
